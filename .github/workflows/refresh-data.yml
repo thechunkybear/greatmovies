@@ -1,0 +1,55 @@
+name: Weekly Data Refresh
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'  # Every Monday at 4am UTC
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      # Cache IMDB bulk files (they're ~1GB and change infrequently)
+      # Cache key rotates monthly so IMDB data stays reasonably fresh
+      - uses: actions/cache@v4
+        with:
+          path: data/raw/title.*.tsv.gz
+          key: imdb-${{ hashFiles('scripts/fetch-imdb-ratings.ts') }}-${{ steps.date.outputs.month }}
+          restore-keys: imdb-
+
+      - id: date
+        run: echo "month=$(date +'%Y-%m')" >> $GITHUB_OUTPUT
+
+      # Clear TMDB cache so watch providers are always fresh
+      - run: rm -rf data/raw/tmdb-cache data/raw/tmdb-movies.json
+
+      - name: Run pipeline
+        run: npm run pipeline
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/movies.json public/data/meta.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: weekly data refresh $(date +'%Y-%m-%d')"
+            git push
+          fi
