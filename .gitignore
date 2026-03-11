@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+.astro/
+
+# Raw data cache (large files)
+data/raw/
+src/data/movies.json
+src/data/meta.json

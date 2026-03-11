@@ -1,0 +1,31 @@
+{
+  "name": "greatmovies",
+  "version": "1.0.0",
+  "description": "Movie discovery site sorted by Roger Ebert reviews",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "pipeline": "tsx scripts/pipeline.ts",
+    "fetch:ebert": "tsx scripts/fetch-ebert-reviews.ts",
+    "fetch:imdb": "tsx scripts/fetch-imdb-ratings.ts",
+    "fetch:tmdb": "tsx scripts/fetch-tmdb-details.ts",
+    "merge": "tsx scripts/match-and-merge.ts",
+    "build:data": "tsx scripts/build-site-data.ts"
+  },
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@astrojs/vue": "^5.1.4",
+    "astro": "^5.18.0",
+    "dotenv": "^17.3.1",
+    "vue": "^3.5.29",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.6",
+    "@types/node": "^25.3.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

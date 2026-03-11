@@ -1,0 +1,27 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+}
+const {
+  title = 'Great Movies — Discover Films by Roger Ebert',
+  description = 'Browse ~9,400 movies reviewed by Roger Ebert, filtered by streaming service, rating, genre, and decade.',
+} = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <meta name="theme-color" content="#0d0d0d" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+</head>
+<body>
+  <slot />
+</body>
+</html>
