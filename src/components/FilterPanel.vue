@@ -16,6 +16,7 @@ interface FilterState {
   decades: number[];
   sort: string;
   criticFilters: Record<string, { minRating: number; designationOnly: boolean }>;
+  duration: [number, number];
 }
 
 const props = defineProps<{
@@ -153,6 +154,43 @@ export default {};
       </div>
     </div>
 
+    <!-- Duration -->
+    <div class="filter-section">
+      <div class="filter-label">Duration</div>
+      <div class="duration-labels">
+        <span>{{ filters.duration[0] === 0 ? 'Any' : `${filters.duration[0]}m` }}</span>
+        <span>–</span>
+        <span>{{ filters.duration[1] >= 300 ? '5h+' : `${filters.duration[1]}m` }}</span>
+      </div>
+      <div class="dual-range">
+        <div class="dual-range-track"></div>
+        <div class="dual-range-fill" :style="{
+          left: (filters.duration[0] / 300 * 100) + '%',
+          right: ((300 - filters.duration[1]) / 300 * 100) + '%',
+        }"></div>
+        <input
+          class="dual-range-input"
+          type="range"
+          min="0"
+          max="300"
+          step="5"
+          :value="filters.duration[0]"
+          :style="{ zIndex: filters.duration[0] >= 290 ? 5 : 3 }"
+          @input="emit('update', { duration: [Math.min(parseInt(($event.target as HTMLInputElement).value), filters.duration[1] - 5), filters.duration[1]] })"
+        />
+        <input
+          class="dual-range-input"
+          type="range"
+          min="0"
+          max="300"
+          step="5"
+          :value="filters.duration[1]"
+          :style="{ zIndex: 4 }"
+          @input="emit('update', { duration: [filters.duration[0], Math.max(parseInt(($event.target as HTMLInputElement).value), filters.duration[0] + 5)] })"
+        />
+      </div>
+    </div>
+
     <!-- Genres -->
     <div class="filter-section">
       <div class="filter-label">Genre</div>
@@ -193,6 +231,7 @@ export default {};
         query: '', genres: [], decades: [], onlyMyServices: false,
         criticFilters: {},
         sort: 'ebert-desc',
+        duration: [0, 300],
       })"
     >
       Clear all filters

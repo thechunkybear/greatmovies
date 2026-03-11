@@ -13,6 +13,7 @@ interface FilterState {
   decades: number[];
   sort: string;
   criticFilters: Record<string, { minRating: number; designationOnly: boolean }>;
+  duration: [number, number];
 }
 
 // ── State ────────────────────────────────────────────────────────────────────
@@ -32,6 +33,7 @@ const filters = ref<FilterState>({
   decades: [],
   sort: 'ebert-desc',
   criticFilters: {},
+  duration: [0, 300],
 });
 
 const selectedMovie = ref<Movie | null>(null);
@@ -117,6 +119,10 @@ const filtered = computed<Movie[]>(() => {
     if (f.decades.length > 0) {
       const decade = Math.floor(m.y / 10) * 10;
       if (!f.decades.includes(decade)) return false;
+    }
+    const [minDur, maxDur] = f.duration;
+    if (minDur > 0 || maxDur < 300) {
+      if (!m.r || m.r < minDur || m.r > maxDur) return false;
     }
     for (const [key, cf] of Object.entries(f.criticFilters)) {
       const review = m.cr?.[key as 'ebert'];
