@@ -212,11 +212,6 @@
       "logo": "/fAE2Y9TG1gkTB8xLAVm5WXIgjXw.jpg"
     },
     {
-      "id": 438,
-      "name": "Chai Flicks",
-      "logo": "/qesugDq8sUCixmOOsqDM1xAnBYz.jpg"
-    },
-    {
       "id": 289,
       "name": "Cinemax Amazon Channel",
       "logo": "/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
@@ -832,5 +827,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-03-11T02:58:56.305Z"
+  "generatedAt": "2026-03-16T06:05:50.309Z"
 }
