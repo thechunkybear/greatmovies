@@ -207,6 +207,11 @@
       "logo": "/49xq9Js36idzOAbLPFLeKIaS8lz.jpg"
     },
     {
+      "id": 554,
+      "name": "BroadwayHD",
+      "logo": "/6IYZ4NjwPikxN7J9cfSmuyeHeMm.jpg"
+    },
+    {
       "id": 2327,
       "name": "Brown Sugar Amazon Channel",
       "logo": "/fAE2Y9TG1gkTB8xLAVm5WXIgjXw.jpg"
@@ -617,6 +622,11 @@
       "logo": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg"
     },
     {
+      "id": 209,
+      "name": "PBS",
+      "logo": "/iLjStQKQwzyxXJb3jyNpvDmW9mx.jpg"
+    },
+    {
       "id": 2430,
       "name": "PBS Documentaries Amazon Channel",
       "logo": "/dmVW0l1FRIR3yY8XSQR5zhavC2U.jpg"
@@ -635,11 +645,6 @@
       "id": 2383,
       "name": "Philo",
       "logo": "/ptmbGSttkyzawLbxx9MElmxKuVo.jpg"
-    },
-    {
-      "id": 690,
-      "name": "Pongalo Amazon Channel  ",
-      "logo": "/t7I2Tx6Q7Nz96KexIPjkzUJOCbt.jpg"
     },
     {
       "id": 278,
@@ -752,6 +757,11 @@
       "logo": "/76CvnJAKAPbJuiXYwQGN7PFqOci.jpg"
     },
     {
+      "id": 2684,
+      "name": "TPT",
+      "logo": "/dS4RfnzVK2iOno0SkdnXQPopf40.jpg"
+    },
+    {
       "id": 2078,
       "name": "Troma NOW",
       "logo": "/2CYF8CNs5WK3sB69K0AlmwUxrzv.jpg"
@@ -827,5 +837,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-03-16T06:05:50.309Z"
+  "generatedAt": "2026-03-23T05:55:40.543Z"
 }
