@@ -217,6 +217,11 @@
       "logo": "/fAE2Y9TG1gkTB8xLAVm5WXIgjXw.jpg"
     },
     {
+      "id": 438,
+      "name": "Chai Flicks",
+      "logo": "/qesugDq8sUCixmOOsqDM1xAnBYz.jpg"
+    },
+    {
       "id": 289,
       "name": "Cinemax Amazon Channel",
       "logo": "/ohcwolMl8E743CkS8MnhmJKOlRj.jpg"
@@ -439,7 +444,7 @@
     {
       "id": 1825,
       "name": "HBO Max Amazon Channel",
-      "logo": "/5AkEgpCNaBP3Fbwd2m1GdQIk0vv.jpg"
+      "logo": "/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
     },
     {
       "id": 417,
@@ -620,11 +625,6 @@
       "id": 633,
       "name": "Paramount+ Roku Premium Channel",
       "logo": "/ywIoxSjoYJGUIbR6BfxUiCHdPi3.jpg"
-    },
-    {
-      "id": 209,
-      "name": "PBS",
-      "logo": "/iLjStQKQwzyxXJb3jyNpvDmW9mx.jpg"
     },
     {
       "id": 2430,
@@ -837,5 +837,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-03-23T05:55:40.543Z"
+  "generatedAt": "2026-03-30T06:26:24.569Z"
 }
