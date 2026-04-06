@@ -157,6 +157,11 @@
       "logo": "/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
     },
     {
+      "id": 2685,
+      "name": "Artify",
+      "logo": "/rQqxsXq63XsDY8xcabqBWU5WWbw.jpg"
+    },
+    {
       "id": 514,
       "name": "AsianCrush",
       "logo": "/jCgWMxqGaq0h0VOxyJPfQdTqmii.jpg"
@@ -797,6 +802,11 @@
       "logo": "/jwRPknT20dfU1GeVqbcDXFyvtdG.jpg"
     },
     {
+      "id": 1866,
+      "name": "ViX Premium Amazon Channel",
+      "logo": "/6S6kGNEmB4iSq83FX2zWTz8aLMN.jpg"
+    },
+    {
       "id": 2466,
       "name": "Warriors and Gangsters Amazon Channel",
       "logo": "/8mGj6Xg1lqd6Ver0CrSwLH48Hns.jpg"
@@ -837,5 +847,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-03-30T06:26:24.569Z"
+  "generatedAt": "2026-04-06T06:28:51.133Z"
 }
