@@ -237,6 +237,11 @@
       "logo": "/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg"
     },
     {
+      "id": 2704,
+      "name": "Cineverse Amazon Channel",
+      "logo": "/4WAnr9g4DkgCpvBIYFMZFR6PXZ2.jpg"
+    },
+    {
       "id": 1811,
       "name": "Cohen Media Amazon Channel",
       "logo": "/QAtDmj6XHlkPvw5xAjF08ZQARh.jpg"
@@ -677,6 +682,11 @@
       "logo": "/96HJkA4nMkcOtiqH9oF1YYtGBHK.jpg"
     },
     {
+      "id": 1715,
+      "name": "Shahid VIP",
+      "logo": "/7qZED0kLBtiV8mLRNBtW4PQCAqW.jpg"
+    },
+    {
       "id": 600,
       "name": "Shout! Factory Amazon Channel",
       "logo": "/ivRp15loTWoVy3eEHALoYEyXI8J.jpg"
@@ -695,6 +705,11 @@
       "id": 2049,
       "name": "Shudder Apple TV Channel",
       "logo": "/kLfq0I2MwiUFUY9yI1GwOeKxX8f.jpg"
+    },
+    {
+      "id": 299,
+      "name": "Sling TV Orange and Blue",
+      "logo": "/bi2aD3dHGsKNMjtt35E9aHyE3z0.jpg"
     },
     {
       "id": 43,
@@ -842,5 +857,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-04-20T06:40:41.134Z"
+  "generatedAt": "2026-04-27T06:47:49.653Z"
 }
