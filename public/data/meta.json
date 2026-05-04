@@ -212,9 +212,19 @@
       "logo": "/49xq9Js36idzOAbLPFLeKIaS8lz.jpg"
     },
     {
+      "id": 554,
+      "name": "BroadwayHD",
+      "logo": "/6IYZ4NjwPikxN7J9cfSmuyeHeMm.jpg"
+    },
+    {
       "id": 2327,
       "name": "Brown Sugar Amazon Channel",
       "logo": "/fAE2Y9TG1gkTB8xLAVm5WXIgjXw.jpg"
+    },
+    {
+      "id": 438,
+      "name": "Chai Flicks",
+      "logo": "/qesugDq8sUCixmOOsqDM1xAnBYz.jpg"
     },
     {
       "id": 2703,
@@ -355,11 +365,6 @@
       "id": 199,
       "name": "Fandor Amazon Channel",
       "logo": "/3eVIcUeRXji5SBV7gEv4f5U4CqV.jpg"
-    },
-    {
-      "id": 2394,
-      "name": "Fear Factory Amazon Channel",
-      "logo": "/s1G5QtQxGzZGgNzqt3A78dMxz9z.jpg"
     },
     {
       "id": 579,
@@ -857,5 +862,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-04-27T06:47:49.653Z"
+  "generatedAt": "2026-05-04T07:03:41.532Z"
 }
