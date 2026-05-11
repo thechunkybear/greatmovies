@@ -157,6 +157,11 @@
       "logo": "/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
     },
     {
+      "id": 2623,
+      "name": "Artiflix",
+      "logo": "/5MsbQCp7FpYr3INLpeKDLJrlDh8.jpg"
+    },
+    {
       "id": 2685,
       "name": "Artify",
       "logo": "/rQqxsXq63XsDY8xcabqBWU5WWbw.jpg"
@@ -215,11 +220,6 @@
       "id": 554,
       "name": "BroadwayHD",
       "logo": "/6IYZ4NjwPikxN7J9cfSmuyeHeMm.jpg"
-    },
-    {
-      "id": 2327,
-      "name": "Brown Sugar Amazon Channel",
-      "logo": "/fAE2Y9TG1gkTB8xLAVm5WXIgjXw.jpg"
     },
     {
       "id": 438,
@@ -317,11 +317,6 @@
       "logo": "/tqHULphS5dyG0EjdAanhmHwTvlu.jpg"
     },
     {
-      "id": 337,
-      "name": "Disney Plus",
-      "logo": "/97yvRBw1GzX7fXprcF80er19ot.jpg"
-    },
-    {
       "id": 569,
       "name": "DocAlliance Films",
       "logo": "/vbXJBJVv3u3YWt6ml0l0ldDblXT.jpg"
@@ -365,6 +360,11 @@
       "id": 199,
       "name": "Fandor Amazon Channel",
       "logo": "/3eVIcUeRXji5SBV7gEv4f5U4CqV.jpg"
+    },
+    {
+      "id": 2394,
+      "name": "Fear Factory Amazon Channel",
+      "logo": "/s1G5QtQxGzZGgNzqt3A78dMxz9z.jpg"
     },
     {
       "id": 579,
@@ -862,5 +862,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-05-04T07:03:41.532Z"
+  "generatedAt": "2026-05-11T08:20:45.620Z"
 }
