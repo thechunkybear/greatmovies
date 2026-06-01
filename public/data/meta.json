@@ -522,6 +522,11 @@
       "logo": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
     },
     {
+      "id": 2414,
+      "name": "Kartoon Channel Amazon Channel",
+      "logo": "/INfMOg2Jd6PQlui9S7ZuFVrb48.jpg"
+    },
+    {
       "id": 2135,
       "name": "Kino Film Collection",
       "logo": "/l8nPh3HtqfIJiFTYT7RdNdsv1XD.jpg"
@@ -867,5 +872,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-05-25T08:42:46.266Z"
+  "generatedAt": "2026-06-01T09:45:43.202Z"
 }
