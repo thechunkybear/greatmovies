@@ -157,6 +157,11 @@
       "logo": "/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
     },
     {
+      "id": 529,
+      "name": "ARROW",
+      "logo": "/wAuMUrRTVaJ2CZ4ZpyQbayZx0iU.jpg"
+    },
+    {
       "id": 2623,
       "name": "Artiflix",
       "logo": "/5MsbQCp7FpYr3INLpeKDLJrlDh8.jpg"
@@ -175,11 +180,6 @@
       "id": 2320,
       "name": "Aspire TV Amazon Channel",
       "logo": "/7ockkrlALB3USwd4SykWGXNOi2u.jpg"
-    },
-    {
-      "id": 397,
-      "name": "BBC America",
-      "logo": "/jfXLhMzHHmBYrtE9ZaW7as2RA98.jpg"
     },
     {
       "id": 2325,
@@ -822,11 +822,6 @@
       "logo": "/sElGn8Ml7yYKuAsceZYQ0nKpqHa.jpg"
     },
     {
-      "id": 457,
-      "name": "VIX ",
-      "logo": "/jwRPknT20dfU1GeVqbcDXFyvtdG.jpg"
-    },
-    {
       "id": 1866,
       "name": "ViX Premium Amazon Channel",
       "logo": "/6S6kGNEmB4iSq83FX2zWTz8aLMN.jpg"
@@ -872,5 +867,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-06-01T09:45:43.202Z"
+  "generatedAt": "2026-06-08T09:27:14.936Z"
 }
