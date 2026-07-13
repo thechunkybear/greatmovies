@@ -227,11 +227,6 @@
       "logo": "/49xq9Js36idzOAbLPFLeKIaS8lz.jpg"
     },
     {
-      "id": 554,
-      "name": "BroadwayHD",
-      "logo": "/6IYZ4NjwPikxN7J9cfSmuyeHeMm.jpg"
-    },
-    {
       "id": 438,
       "name": "Chai Flicks",
       "logo": "/qesugDq8sUCixmOOsqDM1xAnBYz.jpg"
@@ -525,11 +520,6 @@
       "id": 191,
       "name": "Kanopy",
       "logo": "/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg"
-    },
-    {
-      "id": 2414,
-      "name": "Kartoon Channel Amazon Channel",
-      "logo": "/INfMOg2Jd6PQlui9S7ZuFVrb48.jpg"
     },
     {
       "id": 2135,
@@ -872,5 +862,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-07-06T08:53:53.046Z"
+  "generatedAt": "2026-07-13T07:40:41.036Z"
 }
