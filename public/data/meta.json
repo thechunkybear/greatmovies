@@ -187,6 +187,11 @@
       "logo": "/jfXLhMzHHmBYrtE9ZaW7as2RA98.jpg"
     },
     {
+      "id": 2039,
+      "name": "BBC Select Apple Tv channel",
+      "logo": "/z9YY5laFTjAb28NHvMU3ZBjVftm.jpg"
+    },
+    {
       "id": 2325,
       "name": "Best Westerns Ever Amazon Channel",
       "logo": "/zHcxRKfqUFsdG3taPDYGEu5E8FK.jpg"
@@ -722,6 +727,11 @@
       "logo": "/bi2aD3dHGsKNMjtt35E9aHyE3z0.jpg"
     },
     {
+      "id": 2745,
+      "name": "Sony Pictures Core Amazon Channel",
+      "logo": "/b9HLm1GDP4j3PF9TZQercD0r8kg.jpg"
+    },
+    {
       "id": 43,
       "name": "Starz",
       "logo": "/yIKwylTLP1u8gl84Is7FItpYLGL.jpg"
@@ -862,5 +872,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-07-13T07:40:41.036Z"
+  "generatedAt": "2026-07-20T07:18:56.944Z"
 }
