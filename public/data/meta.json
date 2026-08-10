@@ -467,6 +467,16 @@
       "logo": "/xPrDQ8zxayT6PDcdaixzyLXVlWB.jpg"
     },
     {
+      "id": 290,
+      "name": "Hallmark+ Amazon Channel",
+      "logo": "/wVxA3Rw87917VEXChiVKZpXUjSm.jpg"
+    },
+    {
+      "id": 2058,
+      "name": "Hallmark+ Apple TV Channel",
+      "logo": "/hGIjvx8BIK4sHZwRYyyB17Pfywj.jpg"
+    },
+    {
       "id": 1899,
       "name": "HBO Max",
       "logo": "/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
@@ -882,5 +892,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-08-03T07:49:09.671Z"
+  "generatedAt": "2026-08-10T05:54:33.161Z"
 }
