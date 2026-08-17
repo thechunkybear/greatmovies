@@ -157,6 +157,16 @@
       "logo": "/znTpq1dy5TYxm1QLoxORzuOuwYq.jpg"
     },
     {
+      "id": 350,
+      "name": "Apple TV",
+      "logo": "/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
+    },
+    {
+      "id": 2243,
+      "name": "Apple TV Amazon Channel",
+      "logo": "/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
+    },
+    {
       "id": 529,
       "name": "ARROW",
       "logo": "/wAuMUrRTVaJ2CZ4ZpyQbayZx0iU.jpg"
@@ -517,6 +527,11 @@
       "logo": "/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg"
     },
     {
+      "id": 2754,
+      "name": "Howdy Amazon Channel",
+      "logo": "/jcnN5YGef9R2117iqZaUxFOqxQg.jpg"
+    },
+    {
       "id": 15,
       "name": "Hulu",
       "logo": "/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg"
@@ -555,6 +570,11 @@
       "id": 1793,
       "name": "Klassiki",
       "logo": "/ehLnHewfxeKWCL7PT5K4AzTXIcV.jpg"
+    },
+    {
+      "id": 2358,
+      "name": "Lionsgate+ Amazon Channels",
+      "logo": "/o4OqlMLb3ZjhK7OwR4qvxiZKOXf.jpg"
     },
     {
       "id": 2418,
@@ -892,5 +912,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-08-10T05:54:33.161Z"
+  "generatedAt": "2026-08-17T05:02:51.199Z"
 }
