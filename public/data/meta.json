@@ -93,7 +93,7 @@
   "services": [
     {
       "id": 2034,
-      "name": "Acorn TV Apple TV",
+      "name": "Acorn TV Apple TV channel",
       "logo": "/kx8rGgFYxX6aJkG7RHx2mtijglC.jpg"
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "id": 1854,
-      "name": "AMC Plus Apple TV Channel ",
+      "name": "AMC Plus Apple TV channel",
       "logo": "/oTQdXIqM9iewlN4MC2nhKB0gHw.jpg"
     },
     {
@@ -238,13 +238,18 @@
     },
     {
       "id": 1852,
-      "name": "Britbox Apple TV Channel ",
+      "name": "Britbox Apple TV channel",
       "logo": "/bzEv2wssRqVgl12IVBfYhCIvvG.jpg"
     },
     {
       "id": 2326,
       "name": "Broadway HD Amazon Channel",
       "logo": "/49xq9Js36idzOAbLPFLeKIaS8lz.jpg"
+    },
+    {
+      "id": 554,
+      "name": "BroadwayHD",
+      "logo": "/6IYZ4NjwPikxN7J9cfSmuyeHeMm.jpg"
     },
     {
       "id": 438,
@@ -263,7 +268,7 @@
     },
     {
       "id": 2061,
-      "name": "Cinemax Apple TV Channel",
+      "name": "Cinemax Apple TV channel",
       "logo": "/zXCdY4pczONheFCU9GkrMbGI1o5.jpg"
     },
     {
@@ -308,7 +313,7 @@
     },
     {
       "id": 2060,
-      "name": "CuriosityStream Apple TV Channel",
+      "name": "CuriosityStream Apple TV channel",
       "logo": "/z9x1xFFKjHTYlLYWtiPhAjN4jOp.jpg"
     },
     {
@@ -368,7 +373,7 @@
     },
     {
       "id": 2059,
-      "name": "Eros Now Select Apple TV Channel",
+      "name": "Eros Now Select Apple TV channel",
       "logo": "/cqgeSQHqKEkfcmsiy7GoCnf1Q2I.jpg"
     },
     {
@@ -483,7 +488,7 @@
     },
     {
       "id": 2058,
-      "name": "Hallmark+ Apple TV Channel",
+      "name": "Hallmark+ Apple TV channel",
       "logo": "/hGIjvx8BIK4sHZwRYyyB17Pfywj.jpg"
     },
     {
@@ -574,7 +579,7 @@
     {
       "id": 2358,
       "name": "Lionsgate+ Amazon Channels",
-      "logo": "/o4OqlMLb3ZjhK7OwR4qvxiZKOXf.jpg"
+      "logo": "/b2WtG0iyi7UcJ6tqFDTgQjVrYSY.jpg"
     },
     {
       "id": 2418,
@@ -738,7 +743,7 @@
     },
     {
       "id": 2050,
-      "name": "ScreenPix Apple TV Channel",
+      "name": "ScreenPix Apple TV channel",
       "logo": "/96HJkA4nMkcOtiqH9oF1YYtGBHK.jpg"
     },
     {
@@ -758,7 +763,7 @@
     },
     {
       "id": 2049,
-      "name": "Shudder Apple TV Channel",
+      "name": "Shudder Apple TV channel",
       "logo": "/kLfq0I2MwiUFUY9yI1GwOeKxX8f.jpg"
     },
     {
@@ -783,7 +788,7 @@
     },
     {
       "id": 1855,
-      "name": "Starz Apple TV Channel",
+      "name": "Starz Apple TV channel",
       "logo": "/1C5EVCWyQD798CE1DFfcm6oAbxP.jpg"
     },
     {
@@ -853,7 +858,7 @@
     },
     {
       "id": 2045,
-      "name": "UP Faith & Family Apple TV Channel",
+      "name": "UP Faith & Family Apple TV channel",
       "logo": "/92iY4soQNVzNM02mHGjqovPdzdF.jpg"
     },
     {
@@ -912,5 +917,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-08-17T05:02:51.199Z"
+  "generatedAt": "2026-08-24T05:06:21.408Z"
 }
