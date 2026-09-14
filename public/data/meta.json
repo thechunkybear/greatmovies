@@ -92,6 +92,11 @@
   ],
   "services": [
     {
+      "id": 2033,
+      "name": "A&E Crime Central Apple TV channel",
+      "logo": "/iXkhXfJmtYESTtFhncl1UaMBRqK.png"
+    },
+    {
       "id": 2034,
       "name": "Acorn TV Apple TV channel",
       "logo": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png"
@@ -325,6 +330,11 @@
       "id": 2308,
       "name": "Darkroom",
       "logo": "/naf5wQA91UCj0OetKOEYZgWZLqe.png"
+    },
+    {
+      "id": 2370,
+      "name": "DC Amazon Channel",
+      "logo": "/mNpEftvWICfa94sxzdGegPkBmCn.png"
     },
     {
       "id": 444,
@@ -922,5 +932,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-09-07T09:33:54.463Z"
+  "generatedAt": "2026-09-14T09:57:58.104Z"
 }
