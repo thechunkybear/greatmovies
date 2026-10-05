@@ -267,6 +267,11 @@
       "logo": "/8MHJUtlpY7PGBclfvjryTzBEB7A.png"
     },
     {
+      "id": 2364,
+      "name": "Cinefest Amazon Channel",
+      "logo": "/4j1JqvhtL3xwHXW9RJHr8eWEQQF.png"
+    },
+    {
       "id": 289,
       "name": "Cinemax Amazon Channel",
       "logo": "/vJBXVX2REOqNrWlwgnBuQX4pQK6.png"
@@ -415,11 +420,6 @@
       "id": 602,
       "name": "FilmBox Live Amazon Channel",
       "logo": "/cD1TN5ey9mYD8MZ8FrHMyQq42xa.png"
-    },
-    {
-      "id": 701,
-      "name": "FilmBox+",
-      "logo": "/hfooLkJnxKlZRzY1yNK8ryKiijf.png"
     },
     {
       "id": 432,
@@ -583,7 +583,7 @@
     },
     {
       "id": 2358,
-      "name": "Lionsgate+ Amazon Channels",
+      "name": "Lionsgate+ Amazon Channel",
       "logo": "/1356slxu4QrHOMrEVDKHJXRo5sW.png"
     },
     {
@@ -927,5 +927,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-09-28T11:00:12.688Z"
+  "generatedAt": "2026-10-05T11:43:12.732Z"
 }
