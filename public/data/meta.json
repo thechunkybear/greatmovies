@@ -418,8 +418,8 @@
     },
     {
       "id": 602,
-      "name": "FilmBox Live Amazon Channel",
-      "logo": "/cD1TN5ey9mYD8MZ8FrHMyQq42xa.png"
+      "name": "FILMBOX+ Now Amazon Channel",
+      "logo": "/rAJjslepn3Be3RppygJDVVYdkLw.png"
     },
     {
       "id": 432,
@@ -892,6 +892,11 @@
       "logo": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png"
     },
     {
+      "id": 623,
+      "name": "WeTV",
+      "logo": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png"
+    },
+    {
       "id": 2668,
       "name": "Wonder Project Amazon Channel",
       "logo": "/q44PU5iFUrxhOLKW19BrPuEN6Go.png"
@@ -927,5 +932,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-10-05T11:43:12.732Z"
+  "generatedAt": "2026-10-12T12:02:06.964Z"
 }
