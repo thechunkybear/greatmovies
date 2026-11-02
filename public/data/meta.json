@@ -567,6 +567,11 @@
       "logo": "/om1AJmTFbc4B82HszpqJElsMshe.png"
     },
     {
+      "id": 2785,
+      "name": "JustWatch TV Plus",
+      "logo": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png"
+    },
+    {
       "id": 191,
       "name": "Kanopy",
       "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
@@ -670,6 +675,11 @@
       "id": 455,
       "name": "Night Flight Plus",
       "logo": "/acUxuVlP96MVPbUdxdGu0pUHTht.png"
+    },
+    {
+      "id": 2424,
+      "name": "Outside TV Features Amzon Channel",
+      "logo": "/y3b3UctYaH11sKkxPN4juIQhaHp.png"
     },
     {
       "id": 433,
@@ -802,6 +812,11 @@
       "logo": "/tKembbxL7cYdDvFK70xBecbN0G8.png"
     },
     {
+      "id": 2275,
+      "name": "Stingray Karaoke Amazon Channel",
+      "logo": "/esBXsHrOOJ43hZfdPN9sm8vv3Z7.png"
+    },
+    {
       "id": 2174,
       "name": "Strand Releasing Amazon Channel",
       "logo": "/ugFLagb0elt6ssH89oY85UxXd4d.png"
@@ -860,11 +875,6 @@
       "id": 2045,
       "name": "UP Faith & Family Apple TV channel",
       "logo": "/j7y1nRXVZIqco9GgZv5cv7CpFSG.png"
-    },
-    {
-      "id": 322,
-      "name": "USA Network",
-      "logo": "/7Z4egOqWISqraA0SS5CldDzRyh3.png"
     },
     {
       "id": 2296,
@@ -927,5 +937,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-10-19T09:59:11.654Z"
+  "generatedAt": "2026-11-02T12:23:36.409Z"
 }
