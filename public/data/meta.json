@@ -107,6 +107,11 @@
       "logo": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png"
     },
     {
+      "id": 532,
+      "name": "aha",
+      "logo": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png"
+    },
+    {
       "id": 251,
       "name": "ALLBLK",
       "logo": "/1mQtLR21JpfBgJEtBGa3Brlpu6t.png"
@@ -842,6 +847,11 @@
       "logo": "/7LA3wg2A01nyV3PCLN01WNOVhcT.png"
     },
     {
+      "id": 623,
+      "name": "Tencent Video",
+      "logo": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png"
+    },
+    {
       "id": 207,
       "name": "The Roku Channel",
       "logo": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png"
@@ -882,11 +892,6 @@
       "logo": "/eP8ouMk5uIDebPWNto76rNstMqE.png"
     },
     {
-      "id": 457,
-      "name": "VIX ",
-      "logo": "/ieJ55scAVrvboTpeJcZa3JlLIrS.png"
-    },
-    {
       "id": 1866,
       "name": "ViX Premium Amazon Channel",
       "logo": "/dZn7SR1rarhMVKnO0OXCAvMjbcv.png"
@@ -895,11 +900,6 @@
       "id": 2466,
       "name": "Warriors and Gangsters Amazon Channel",
       "logo": "/tYRiW2QvjPtCbBhRVYFUyyfApVl.png"
-    },
-    {
-      "id": 623,
-      "name": "WeTV",
-      "logo": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png"
     },
     {
       "id": 2668,
@@ -937,5 +937,5 @@
       "designationLabel": "Great Movie"
     }
   ],
-  "generatedAt": "2026-11-02T12:23:36.409Z"
+  "generatedAt": "2026-11-09T13:05:17.056Z"
 }
